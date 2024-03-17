@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: The best way to learn math
+    env: docker
+    plan: free
